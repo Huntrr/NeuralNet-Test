@@ -1,0 +1,21 @@
+{
+  "name": "neuralnet",
+  "version": "1.0.0",
+  "description": "Test script for Calc project",
+  "main": "project.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huntrr/NeuralNet-Test.git"
+  },
+  "author": "Hunter Lightman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Huntrr/NeuralNet-Test/issues"
+  },
+  "private": "true",
+  "dependencies": {
+    "coffee-script": "^1.9.3",
+    "prompt": "^0.2.14",
+    "synaptic": "^0.1.7"
+  }
+}
