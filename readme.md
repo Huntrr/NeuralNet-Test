@@ -6,9 +6,11 @@ Builds off [Synaptic](https://github.com/cazala/synaptic) to create a couple rud
 
 ### How to get it working
 First
+
     npm install
 
 Then (after making sure run.sh is executable)
+
     ./run.sh SCRIPT
 
 Where SCRIPT is any one of the following
