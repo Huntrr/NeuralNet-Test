@@ -9,8 +9,8 @@ First
     npm install
 
 Then (after making sure run.sh is executable)
-    ./run.sh <SCRIPT>
+    ./run.sh SCRIPT
 
-Where &lt;SCRIPT&gt; is any one of the following
+Where SCRIPT is any one of the following
 1. xor - easy xor gate network with extra-legible source
 2. model - easy to modify modelling network to model any kind of basic data
